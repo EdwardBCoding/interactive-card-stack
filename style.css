@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    height: 8vmin;
+    width: 8vmin;
+    border-radius: 4vmin;
+}
+
